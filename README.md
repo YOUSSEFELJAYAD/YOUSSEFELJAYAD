@@ -1,3 +1,4 @@
+✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  
 ### Hi 👋, It's YOUSSEF EL JAYAD.
 
 - 🔭 Im currently working at [Cloud-Invest](https://cloud-invest.com/) as a Senior project Engineer .
@@ -5,7 +6,7 @@
 - 👯 I’m always open to meaningful collaborations.
 - 🌱 I’m currently learning ...
 
-
+✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨ 
 
 
 ### Find me at:
@@ -14,13 +15,6 @@
 
 
 
-
-### Github Stats
-[![Saeed Github Stats](https://github-readme-stats.vercel.app/api?username=YOUSSEFELJAYAD&count_private=true&theme=default&show_icons=true)](https://github.com/YOUSSEFELJAYAD)
+✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  
 
 
-
-<!---
-YOUSSEFELJAYAD/YOUSSEFELJAYAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
